@@ -1,2 +1,2 @@
-# dan-s_portfolio
+# daniel-chandler-portfolio
 Analytics Portfolio
